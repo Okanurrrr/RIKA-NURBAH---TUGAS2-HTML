@@ -1,0 +1,29 @@
+#section3 h2 {
+    color: rgb(18, 18, 160);
+}
+#section3 p {
+    color: green;
+}
+
+.bold-red {
+    font-weight: bold;
+    color: red;
+}
+
+.red-italic {
+    font-style: italic;
+    color: red;
+}
+
+.underlined {
+    color: red;
+    text-decoration: underline;
+    font-style: normal; 
+}
+ul li {
+    color:black;
+}
+
+
+
+
